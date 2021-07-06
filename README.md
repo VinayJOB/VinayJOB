@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinayJOB
 - 👀 I’m interested in Full stack web development.
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m very Intrested in Backend Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
